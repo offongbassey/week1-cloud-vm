@@ -23,7 +23,8 @@ Launching and securing my first cloud VM using AWS EC2 and SSH
 - IAM roles
 
 ## 📸 Screenshots
-- EC2 dashboard showing running instance
+- ![EC2 Dashboard](Screenshot%202025-10-08%20101833.png)
+
 - Security group configuration
 - SSH terminal connection
 - Metadata query output
