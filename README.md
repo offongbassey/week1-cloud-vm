@@ -27,13 +27,14 @@ Launching and securing my first cloud VM using AWS EC2 and SSH
 ![EC2 Dashboard](screenshots/ec2-dashboard.png)
 ### SSH Terminal Connection
 ![SSH Terminal](screenshots/ssh-terminal.png)
+### Metadata Query Output
+![Metadata Query](screenshots/metadata-query.png)
 
 
 
 
 - Security group configuration
-- SSH terminal connection
-- Metadata query output
+
 
 ## 🔗 Resources
 - [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/)
